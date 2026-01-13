@@ -8,7 +8,7 @@ class ParserConfig:
     """Конфигурация API и параметров парсинга."""
 
     # API ключи 
-    EXCHANGERATE_API_KEY: str = os.getenv("EXCHANGERATE_API_KEY", "")
+    EXCHANGERATE_API_KEY: str = os.getenv("EXCHANGERATE_API_KEY", "22c8ce3cc229aa73e43c465d")
     COINGECKO_URL: Final[str] = "https://api.coingecko.com/api/v3/simple/price"
     EXCHANGERATE_API_URL: Final[str] = "https://v6.exchangerate-api.com/v6"
 

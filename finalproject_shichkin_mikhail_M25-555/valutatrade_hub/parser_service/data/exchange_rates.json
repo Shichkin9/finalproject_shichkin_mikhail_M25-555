@@ -1,0 +1,74 @@
+[
+    {
+        "id": "BTC_USD_2026-01-13T21:35:46.987279+00:00",
+        "from_currency": "BTC",
+        "to_currency": "USD",
+        "rate": 94273.0,
+        "timestamp": "2026-01-13T21:35:46.774460+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "ETH_USD_2026-01-13T21:35:46.987297+00:00",
+        "from_currency": "ETH",
+        "to_currency": "USD",
+        "rate": 3212.14,
+        "timestamp": "2026-01-13T21:35:46.774460+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "SOL_USD_2026-01-13T21:35:46.987301+00:00",
+        "from_currency": "SOL",
+        "to_currency": "USD",
+        "rate": 143.88,
+        "timestamp": "2026-01-13T21:35:46.774460+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "BTC_USD_2026-01-13T21:38:57.891698+00:00",
+        "from_currency": "BTC",
+        "to_currency": "USD",
+        "rate": 94198.0,
+        "timestamp": "2026-01-13T21:38:57.626489+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "ETH_USD_2026-01-13T21:38:57.891723+00:00",
+        "from_currency": "ETH",
+        "to_currency": "USD",
+        "rate": 3211.46,
+        "timestamp": "2026-01-13T21:38:57.626489+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "SOL_USD_2026-01-13T21:38:57.891730+00:00",
+        "from_currency": "SOL",
+        "to_currency": "USD",
+        "rate": 143.8,
+        "timestamp": "2026-01-13T21:38:57.626489+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "BTC_USD_2026-01-13T21:44:40.590543+00:00",
+        "from_currency": "BTC",
+        "to_currency": "USD",
+        "rate": 94182.0,
+        "timestamp": "2026-01-13T21:44:40.351018+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "ETH_USD_2026-01-13T21:44:40.590552+00:00",
+        "from_currency": "ETH",
+        "to_currency": "USD",
+        "rate": 3209.91,
+        "timestamp": "2026-01-13T21:44:40.351018+00:00",
+        "source": "CoinGecko"
+    },
+    {
+        "id": "SOL_USD_2026-01-13T21:44:40.590555+00:00",
+        "from_currency": "SOL",
+        "to_currency": "USD",
+        "rate": 143.65,
+        "timestamp": "2026-01-13T21:44:40.351018+00:00",
+        "source": "CoinGecko"
+    }
+]

@@ -28,7 +28,8 @@ class RatesStorage:
     # Безопасная запись
     def _atomic_write(self, file_path: str, data) -> None:
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
-        fd, tmp = tempfile.mkstemp()
+        temp_dir = os.path.dirname(file_path) or "."
+        fd, tmp = tempfile.mkstemp(dir=temp_dir)
         try:
             with os.fdopen(fd, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)
